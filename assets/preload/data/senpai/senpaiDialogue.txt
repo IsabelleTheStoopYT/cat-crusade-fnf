@@ -1,0 +1,7 @@
+:dad:Ah, a new fair maiden has come in search of true love!:norm
+:dad:A serenade between gentlemen shall decide where her beautiful heart shall reside.:alt
+:dad:test message:norm
+:bf:Beep bo bop:norm
+:dad:test message:norm
+:dad:test message alt:alt
+:dad:test message:norm
